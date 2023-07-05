@@ -1,0 +1,53 @@
+[
+    {
+      "carrier": {
+        "id": "CAR001",
+        "name": "John Doe",
+        "username": "johndoe123",
+        "password": "a1b2c3d4",
+        "destination": "New York",
+        "departure": "Los Angeles",
+        "departure_time": "Sun Dec 20 2020 00:00:00",
+        "arriving_time": "Sun Dec 24 2020 00:00:00",
+        "cost": "$200",
+        "contacts": {
+          "phone": "(555) 123-4567",
+          "email": "johndoe@example.com",
+          "chat": "@johndoe123"
+        }
+      },
+      "client": {
+        "id": "CLI001",
+        "name": "Jane Smith",
+        "username": "janesmith456",
+        "password": "e5f6g7h8",
+        "location": "Chicago"
+      }
+    },
+    {
+      "carrier": {
+        "id": "CAR002",
+        "name": "Sarah Johnson",
+        "username": "sarahj",
+        "password": "p@ssw0rd",
+        "destination": "San Francisco",
+        "departure": "Seattle",
+        "departure_time": "Sun Dec 20 2020 00:00:00",
+        "arriving_time": "Sun Dec 22 2020 00:00:00",
+        "cost": "$150",
+        "contacts": {
+          "phone": "(555) 234-5678",
+          "email": "sarahj@example.com",
+          "chat": "@sarahj"
+        }
+      },
+      "client": {
+        "id": "CLI002",
+        "name": "Mike Lee",
+        "username": "mikelee789",
+        "password": "q9w8e7r6",
+        "location": "Boston"
+      }
+    }
+  ]
+  

@@ -1,0 +1,53 @@
+[
+    {   
+        "id": "1",
+        "client_id": "CAR002",
+        "carrier_id": "None", 
+        "document": "True", 
+        "weight": "200",
+        "destination": "tehran",
+        "departure": "vancouver",
+        "status": "onway" 
+    },
+    {
+        "id": "2",
+        "client_id": "CAR001",
+        "carrier_id": "None", 
+        "document": "True", 
+        "weight": "100",
+        "destination": "paris",
+        "departure": "toronto",
+        "status": "waiting" 
+    },
+    {
+        "id": "3",
+        "client_id": "CAR001",
+        "carrier_id": "None", 
+        "document": "False", 
+        "weight": "200",
+        "destination": "vancouver",
+        "departure": "tehran",
+        "status": "shipped" 
+    },
+    {
+        "id": "4",
+        "client_id": "CAR002",
+        "carrier_id": "None", 
+        "document": "False", 
+        "weight": "800",
+        "destination": "berlin",
+        "departure": "vancouver",
+        "status": "waiting" 
+    },
+    {
+        "id": "5",
+        "client_id": "CAR002",
+        "carrier_id": "None", 
+        "document": "True", 
+        "weight": "200",
+        "destination": "tehran",
+        "departure": "vancouver",
+        "status": "waiting" 
+    }
+
+]
